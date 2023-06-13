@@ -4,4 +4,4 @@ My name is Rafay Khan and I'm a second-year studying Computer Science (BSE) at P
 
 I have experience with software development, machine learning, data science, and finance.
 
-- Creator of Marshmallow, an automation project responsible for putting ~600 Princeton Students in touch with their mentors.
+- Creator of Marshmallow, an automation project responsible for putting ~600 First-Gen, Low-Income Princeton students in touch with their mentors.
