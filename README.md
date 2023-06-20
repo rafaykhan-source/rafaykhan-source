@@ -1,6 +1,6 @@
 ### Hi There! 👋
 
-My name is Rafay Khan and I'm a second-year studying Computer Science (BSE) at Princeton University. I like to automate things and develop software in the hopes of improving general quality of life.
+My name is Rafay Khan and I'm a rising third-year studying Computer Science (BSE) at Princeton University. I like to automate things and develop software in the hopes of improving general quality of life.
 
 I have experience with software development, machine learning, data science, and finance.
 
