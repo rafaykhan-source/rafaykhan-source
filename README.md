@@ -1,6 +1,6 @@
 ### Hi There! 👋
 
-I'm Danial Khan, a rising third-year studying Computer Science (BSE) at Princeton University. I like to automate things and develop software in the hopes of improving general quality of life.
+I'm Danial Khan, a third-year studying Computer Science (BSE) at Princeton University. I like to automate things and develop software in the hopes of improving general quality of life.
 
 I have experience with software development, machine learning, data science, and finance.
 
