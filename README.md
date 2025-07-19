@@ -8,5 +8,5 @@ I have experience with software development, machine learning, data science, and
 - I'm the creator of Marshmallow, an automation suite responsible for putting **thousands** of first-generation, low-income students in touch with their mentors, identifying missing student program enrollees, and tracking student engagement with weekly activities.
 
 Skills:
-Languages - TypeScript, Python, Go, Java, C
-Frameworks - React, Django, Flask
+- Languages: TypeScript, Python, Go, Java, C
+- Frameworks: React, Django, Flask
